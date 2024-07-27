@@ -1,3 +1,4 @@
+'''Define class for bank accounts'''
 class MyBank:
     def __init__(self, accountNo, accountBalance, holder, holderBirth, currency):
         self.account_number = accountNo
